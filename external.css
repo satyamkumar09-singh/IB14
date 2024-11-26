@@ -1,0 +1,34 @@
+.head1{
+    text-align: center;
+    font-family: "Protest Revolution", sans-serif;
+    text-shadow: 3px,3px,3px;
+}
+
+.head2{
+    text-align: center;
+    font-family: "Bokor", system-ui;
+    
+}
+
+.head3{
+    text-align: center;
+    font-family: "Edu AU VIC WA NT Arrows", cursive;
+    text-shadow: 2px 2px 2px;
+
+}
+
+.wrapper{
+    background-color: aqua;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+.wrapper2{
+    background-color: aqua;
+    padding: 20px;}
+
+.wrapper2 button{
+        padding: 8px,120px;
+
+    }
