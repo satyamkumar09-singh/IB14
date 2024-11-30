@@ -1,0 +1,39 @@
+.container0{
+    height: 400px;
+
+    padding: 10px;
+    background-color:aquamarine;
+    display: flex;
+    justify-content: space-evenly;
+}
+.container0 img{
+    margin-top: 20px;
+}
+.container0 .container1{
+    margin-top: 50px;
+}
+.container0 .container1 h1{
+    font-size: 34px;
+}
+
+.container0 .container1 .b1{
+    height: 25px;
+    width: 85px;
+    justify-content: center;
+    padding: 4px;
+    background-color: red;
+    border-radius: 4px;
+    color: aliceblue;
+
+}
+.container0 .container1 .b2{
+    height: 25px;
+    width: 100px;
+    justify-content: center;
+    padding: 4px;
+    background-color:blue;
+    border-radius: 4px;
+    color: aliceblue;
+    font-weight: 200px;
+
+}

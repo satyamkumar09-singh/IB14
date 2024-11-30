@@ -29,6 +29,16 @@
     padding: 20px;}
 
 .wrapper2 button{
-        padding: 8px,120px;
+        padding: 5px,120px;
 
+    }
+
+    .container{
+        padding: 20px;
+        margin: 40px;
+        background-color: brown;
+        border: 13px double green;
+        border-top-left-radius: 90px;
+        border-bottom-right-radius: 90px;
+        box-shadow: 3px 3px 3px 3px blue;
     }
