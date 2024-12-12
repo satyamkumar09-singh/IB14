@@ -1,0 +1,29 @@
+.slider{
+    height: 400px;
+    background-image: url(images/virat.jpeg.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    animation-name: slider;
+    animation-duration: 4s;
+   
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+@keyframes slider {
+    0%{
+       background-image: url(images/campingpexel1.jpgi);
+       background-repeat: no-repeat;
+       background-size: cover;
+    }
+    50%{
+       background-image: url(images/campingpexel4.jpg);
+       background-repeat: no-repeat;
+       background-size: cover;
+    }
+    100%{
+       background-image: url(images/campingpexel5.jpg);
+       background-repeat: no-repeat;
+       background-size: cover;
+    }
+    
+}
